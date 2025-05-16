@@ -1,0 +1,26 @@
+﻿[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Rider
+.idea/
+*.sln.iml
+
+# Autogenerado por Unity
+ExportedObj/
+.consulo/
