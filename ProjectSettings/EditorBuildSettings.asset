@@ -6,6 +6,25 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 66043910535167046b3b860656fe34fb
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1.unity
+    guid: 3450e6559799b8b4ab29e456c8dec5bc
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/Demo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 9de837722c58409419faf5cd2a84ff6f
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: dc0e7d0b10ba3954781edcd3f4f90174
+  - enabled: 1
+    path: Assets/Scenes/Ganaste.unity
+    guid: df6d27257ae6cf64cad523e1b8baa35d
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.unity
+    guid: 2e6d8cefd7a75bd45ae06f81576ef1a6
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

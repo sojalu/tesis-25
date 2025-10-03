@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: 5e25cd7046ebc834ebcdf48206fce85c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1212631185412972484
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_0
+  - first:
+      213: 3168054090135043978
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_1
+  - first:
+      213: 8869903550797918257
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_2
+  - first:
+      213: -6446552137471830013
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_3
+  - first:
+      213: 4796278505852575491
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_4
+  - first:
+      213: -2621342447951337395
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_5
+  - first:
+      213: 7257246592034062507
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_6
+  - first:
+      213: 9101498219051224169
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_7
+  - first:
+      213: -8808550239998710101
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_8
+  - first:
+      213: -1732607340922256449
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_9
+  - first:
+      213: -2235700333181944380
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_10
+  - first:
+      213: -3972618358644766018
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_11
+  - first:
+      213: -8161592741597994244
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_12
+  - first:
+      213: -3971627304552228395
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_13
+  - first:
+      213: 6132870028729421289
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_14
+  - first:
+      213: 5189511974095099844
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_15
+  - first:
+      213: 4986637145501929370
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_16
+  - first:
+      213: 284456828948011441
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_17
+  - first:
+      213: -5575867869600793246
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_18
+  - first:
+      213: -1641385335241245420
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_19
+  - first:
+      213: 8766617813164885801
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_20
+  - first:
+      213: 8191592494218892481
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_21
+  - first:
+      213: 4933249848203050756
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_22
+  - first:
+      213: 2638641157600156558
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_23
+  - first:
+      213: -5438880720444020539
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_24
+  - first:
+      213: 4445262746576333027
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_25
+  - first:
+      213: 1172909026349971584
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_26
+  - first:
+      213: 7084821087327715724
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_27
+  - first:
+      213: -8399483940768594286
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_28
+  - first:
+      213: 8516829868322027065
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_29
+  - first:
+      213: 9107944785369494614
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_30
+  - first:
+      213: -8953049536297409829
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_31
+  - first:
+      213: -2267080779443800878
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_32
+  - first:
+      213: 3741798532065956357
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_33
+  - first:
+      213: -4184428316672213232
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_34
+  - first:
+      213: -511567167759742588
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_35
+  - first:
+      213: -1076675605695925204
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_36
+  - first:
+      213: -6690435459376553083
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_37
+  - first:
+      213: 1035527864115813309
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_38
+  - first:
+      213: 9090361364426633874
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_39
+  - first:
+      213: 5711288514933095971
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_40
+  - first:
+      213: 1299584219371342956
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_41
+  - first:
+      213: 1461033457793295906
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_42
+  - first:
+      213: -5612316881145482396
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_43
+  - first:
+      213: 1327413052955307111
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_44
+  - first:
+      213: -6586404726487901635
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_45
+  - first:
+      213: 8131427553505862669
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_46
+  - first:
+      213: 6089674175176764179
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_47
+  - first:
+      213: 5171735408478738869
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_48
+  - first:
+      213: 4946093975021023367
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_49
+  - first:
+      213: -4676098277189360019
+    second: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+      (1)_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 721
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfd91a63a124d010800000000000000
+      internalID: 1212631185412972484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 942
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff8bfe86037fb20800000000000000
+      internalID: 3168054090135043978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 942
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1303941e84a381b70800000000000000
+      internalID: 8869903550797918257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 942
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d4fb7cfe3986a0800000000000000
+      internalID: -6446552137471830013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 942
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f1f29a3edcf8240800000000000000
+      internalID: 4796278505852575491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 927
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48253b9eee1f9bd0800000000000000
+      internalID: -2621342447951337395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 927
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ca9d235be6b460800000000000000
+      internalID: 7257246592034062507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 927
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c066e88640f4e70800000000000000
+      internalID: 9101498219051224169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 927
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baee1b6f93eb1c580800000000000000
+      internalID: -8808550239998710101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 927
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3481d9dca84f7e0800000000000000
+      internalID: -1732607340922256449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 913
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdb778646239f0e0800000000000000
+      internalID: -2235700333181944380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 913
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba88c096ac6ed8c0800000000000000
+      internalID: -3972618358644766018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 913
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf225abb4a23cbe80800000000000000
+      internalID: -8161592741597994244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 910
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d91ce35202f1e8c0800000000000000
+      internalID: -3971627304552228395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 913
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8e0c3cc45c1550800000000000000
+      internalID: 6132870028729421289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 913
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7139d25a9d40840800000000000000
+      internalID: 5189511974095099844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 913
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f09614018143540800000000000000
+      internalID: 4986637145501929370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 898
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b951639af792f300800000000000000
+      internalID: 284456828948011441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 898
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3eedf6b98e92b0800000000000000
+      internalID: -5575867869600793246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 898
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df869ebb0a839e0800000000000000
+      internalID: -1641385335241245420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 898
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9270e4b147849a970800000000000000
+      internalID: 8766617813164885801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 898
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c45caaf8f16ea170800000000000000
+      internalID: 8191592494218892481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 884
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f7466799c667440800000000000000
+      internalID: 4933249848203050756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 884
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b9b7817265e9420800000000000000
+      internalID: 2638641157600156558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 884
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a63a1dc63584b0800000000000000
+      internalID: -5438880720444020539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 884
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a5fe7aeeb0bd30800000000000000
+      internalID: 4445262746576333027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 884
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088707d8b82074010800000000000000
+      internalID: 1172909026349971584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 881
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c818d5fed37525260800000000000000
+      internalID: 7084821087327715724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 855
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c3e5bbd90f6b80800000000000000
+      internalID: -8399483940768594286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 852
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93675c124abd13670800000000000000
+      internalID: 8516829868322027065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 852
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f1ddb68be56e70800000000000000
+      internalID: 9107944785369494614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 855
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2648cc1e060c380800000000000000
+      internalID: -8953049536297409829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 855
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f228ea06b980e0800000000000000
+      internalID: -2267080779443800878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 855
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5029ed4a0f98de330800000000000000
+      internalID: 3741798532065956357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 852
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fbaa4bd9cede5c0800000000000000
+      internalID: -4184428316672213232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 841
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4898dee0f5c86e8f0800000000000000
+      internalID: -511567167759742588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 841
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c247a28bd31ee01f0800000000000000
+      internalID: -1076675605695925204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 838
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583ee2ba56cc623a0800000000000000
+      internalID: -6690435459376553083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 841
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb54af1b1fee5e00800000000000000
+      internalID: 1035527864115813309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 841
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292b5968f73772e70800000000000000
+      internalID: 9090361364426633874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 841
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32efa5605a2924f40800000000000000
+      internalID: 5711288514933095971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 812
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c055746fc090210800000000000000
+      internalID: 1299584219371342956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 812
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226eab06032a64410800000000000000
+      internalID: 1461033457793295906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 812
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463356c288b0d12b0800000000000000
+      internalID: -5612316881145482396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 798
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c2e93832beb6210800000000000000
+      internalID: 1327413052955307111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 798
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1cba2cc36894a0800000000000000
+      internalID: -6586404726487901635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 798
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046a8b1742a8d070800000000000000
+      internalID: 8131427553505862669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 798
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be749d56ed28450800000000000000
+      internalID: 6089674175176764179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 783
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b95fa6f3f1b5c740800000000000000
+      internalID: 5171735408478738869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 783
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780f3d6c34e04a440800000000000000
+      internalID: 4946093975021023367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch
+        (1)_50
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 783
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ef4554692b1fb0800000000000000
+      internalID: -4676098277189360019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_0: 1212631185412972484
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_1: 3168054090135043978
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_10: -2235700333181944380
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_11: -3972618358644766018
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_12: -8161592741597994244
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_13: -3971627304552228395
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_14: 6132870028729421289
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_15: 5189511974095099844
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_16: 4986637145501929370
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_17: 284456828948011441
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_18: -5575867869600793246
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_19: -1641385335241245420
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_2: 8869903550797918257
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_20: 8766617813164885801
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_21: 8191592494218892481
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_22: 4933249848203050756
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_23: 2638641157600156558
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_24: -5438880720444020539
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_25: 4445262746576333027
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_26: 1172909026349971584
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_27: 7084821087327715724
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_28: -8399483940768594286
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_29: 8516829868322027065
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_3: -6446552137471830013
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_30: 9107944785369494614
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_31: -8953049536297409829
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_32: -2267080779443800878
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_33: 3741798532065956357
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_34: -4184428316672213232
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_35: -511567167759742588
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_36: -1076675605695925204
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_37: -6690435459376553083
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_38: 1035527864115813309
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_39: 9090361364426633874
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_4: 4796278505852575491
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_40: 5711288514933095971
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_41: 1299584219371342956
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_42: 1461033457793295906
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_43: -5612316881145482396
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_44: 1327413052955307111
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_45: -6586404726487901635
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_46: 8131427553505862669
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_47: 6089674175176764179
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_48: 5171735408478738869
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_49: 4946093975021023367
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_5: -2621342447951337395
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_50: -4676098277189360019
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_6: 7257246592034062507
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_7: 9101498219051224169
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_8: -8808550239998710101
+      Game Boy Advance - The Legend of Zelda The Minish Cap - Lon Lon Ranch (1)_9: -1732607340922256449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
